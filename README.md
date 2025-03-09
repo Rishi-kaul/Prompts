@@ -41,13 +41,13 @@ Each prompt is designed to be **direct, actionable, and structured** for maximum
 - Acts as an **expert tutor** for any subject.
 - Provides a **60-day study plan** with books, videos, and supplementary topics.
 - Helps you **overcome sticking points** and **test your knowledge**.
-- [View Prompt](prompts/study-regimen.md)
+- [View Prompt](Prompts/study-regimen.md)
 
 ### 🧠 Personal Strategic Advisor Prompt
 - Acts as a **brutally honest, high-IQ advisor**.
 - Identifies **critical gaps** and provides **specific action plans**.
 - Pushes you **beyond your comfort zone** and **holds you accountable**.
-- [View Prompt](prompts/strategic-advisor.md)
+- [View Prompt](Prompts/strategic-advisor.md)
 
 ### 💼 Business & Productivity Prompts
 - Business growth strategies
