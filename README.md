@@ -49,20 +49,7 @@ Each prompt is designed to be **direct, actionable, and structured** for maximum
 - Pushes you **beyond your comfort zone** and **holds you accountable**.
 - [View Prompt](Prompts/strategic-advisor.md)
 
-### 💼 Business & Productivity Prompts
-- Business growth strategies
-- Decision-making frameworks
-- Productivity hacks and workflow optimization
 
-### 🤖 AI & Coding Assistance Prompts
-- Debugging assistance
-- Code review and best practices
-- Algorithm and data structure explanations
-
-### ✍️ Creative Writing Prompts
-- Brainstorming fiction and non-fiction ideas
-- Poetry and storytelling guidance
-- Character and world-building prompts
 
 _(More prompts coming soon!)_
 
@@ -74,9 +61,6 @@ Prompts-/
 │── prompts/
 │   ├── study-regimen.md
 │   ├── strategic-advisor.md
-│   ├── business-productivity.md
-│   ├── ai-coding-assistance.md
-│   ├── creative-writing.md
 │── README.md
 │── LICENSE
 ```
